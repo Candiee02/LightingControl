@@ -12,7 +12,7 @@ int pirstate2 = LOW;
 int lamp3 = 13;
 int lamp2  = 12;
 int lamp1 = 11;
-
+//task
 TaskHandle_t xdieukhien1;
 TaskHandle_t xdieukhien2;
 TaskHandle_t xdieukhien3;
